@@ -1,0 +1,13 @@
+version: 1
+name: eu-spain-public-data
+description: "Search EU and Spanish public open data from any AI assistant: Spain's official gazettes (BOE and BORME), open EU funding and grant calls (EU Funding & Tenders Portal), and EU public procurement notices (TED). Keyless official sources, structured results."
+runtime: typescript
+entry: src/index.ts
+build:
+  install: npm ci
+  command: npm run build
+startCommand:
+  type: http
+  command: node dist/index.js
+# No secrets: all sources are keyless public APIs.
+# Subscription tiers are configured via `mcpize publish` / the MCPize dashboard (see PUBLISHING.md).
