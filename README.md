@@ -1,5 +1,11 @@
 # Spain & EU Public Data MCP (by OpenData Forge)
 
+[![MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.opendata--forge%2Feu--spain--public--data-blue)](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.opendata-forge/eu-spain-public-data)
+[![Glama score](https://glama.ai/mcp/servers/opendata-forge/eu-spain-public-data-mcp/badges/score.svg)](https://glama.ai/mcp/servers/opendata-forge/eu-spain-public-data-mcp)
+[![Smithery](https://img.shields.io/badge/Smithery-listed-orange)](https://smithery.ai/servers/opendata-forge/eu-spain-public-data)
+[![MCPize](https://img.shields.io/badge/MCPize-hosted-6f42c1)](https://mcpize.com/mcp/eu-spain-public-data)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Give Claude, Cursor or any MCP client live access to:
 
 | Tool | What it searches |
@@ -34,3 +40,15 @@ BOE range ≤31 days/call, ≤200 results; EU funding ≤100; TED ≤100 per cal
 - Basado en datos de la Agencia Estatal Boletín Oficial del Estado – https://www.boe.es (reuse conditions: https://www.boe.es/informacion/aviso_legal/)
 - © European Union – EU Funding & Tenders Portal and TED (https://ted.europa.eu), reuse under Commission Decision 2011/833/EU.
 Not affiliated with or endorsed by these bodies.
+
+## Hosted versions
+No install needed: use the hosted server on [MCPize](https://mcpize.com/mcp/eu-spain-public-data) (free tier) or [Smithery](https://smithery.ai/servers/opendata-forge/eu-spain-public-data). Both require signing in to that platform.
+
+## Follow
+Built and maintained by **OpenData Forge**.
+- Website: https://opendata-forge.pages.dev
+- X: [@opendataforge](https://x.com/opendataforge)
+- LinkedIn: [OpenData Forge](https://www.linkedin.com/company/opendataforge)
+- Tutorials: https://opendata-forge.hashnode.dev
+
+Issues and feature requests: https://github.com/opendata-forge/eu-spain-public-data-mcp/issues
