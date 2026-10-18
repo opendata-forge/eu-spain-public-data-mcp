@@ -1,7 +1,7 @@
 # Spain & EU Public Data MCP (by OpenData Forge)
 
 [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.opendata--forge%2Feu--spain--public--data-blue)](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.opendata-forge/eu-spain-public-data)
-[![Glama score](https://glama.ai/mcp/servers/opendata-forge/eu-spain-public-data-mcp/badges/score.svg)](https://glama.ai/mcp/servers/opendata-forge/eu-spain-public-data-mcp)
+[![Spain & EU Public Data MCP](https://glama.ai/mcp/servers/opendata-forge/eu-spain-public-data-mcp/badges/score.svg)](https://glama.ai/mcp/servers/opendata-forge/eu-spain-public-data-mcp)
 [![Smithery](https://img.shields.io/badge/Smithery-listed-orange)](https://smithery.ai/servers/opendata-forge/eu-spain-public-data)
 [![MCPize](https://img.shields.io/badge/MCPize-hosted-6f42c1)](https://mcpize.com/mcp/eu-spain-public-data)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
