@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo-512.png" alt="OpenData Forge" width="96"></p>
+
 # Spain & EU Public Data MCP (by OpenData Forge)
 
 [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.opendata--forge%2Feu--spain--public--data-blue)](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.opendata-forge/eu-spain-public-data)

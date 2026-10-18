@@ -18,5 +18,14 @@
       "type": "streamable-http",
       "url": "https://server.smithery.ai/opendata-forge/eu-spain-public-data/mcp"
     }
+  ],
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/opendata-forge/eu-spain-public-data-mcp/main/assets/logo-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
   ]
 }
