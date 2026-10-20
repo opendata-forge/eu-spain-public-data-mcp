@@ -44,7 +44,7 @@ BOE range ≤31 days/call, ≤200 results; EU funding ≤100; TED ≤100 per cal
 Not affiliated with or endorsed by these bodies.
 
 ## Hosted versions
-No install needed: use the hosted server on [MCPize](https://mcpize.com/mcp/eu-spain-public-data) (free tier) or [Smithery](https://smithery.ai/servers/opendata-forge/eu-spain-public-data). Both require signing in to that platform.
+No install needed: use the hosted server on [MCPize](https://mcpize.com/mcp/eu-spain-public-data) (free tier, sign-in required).
 
 ## Follow
 Built and maintained by **OpenData Forge**.

@@ -3,7 +3,7 @@
   "name": "io.github.opendata-forge/eu-spain-public-data",
   "title": "EU & Spain Public Data (BOE, BORME, EU funding, TED)",
   "description": "Search Spain's BOE/BORME gazettes, open EU funding calls and EU TED tenders. Keyless sources.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://opendata-forge.pages.dev",
   "repository": {
     "url": "https://github.com/opendata-forge/eu-spain-public-data-mcp",
@@ -13,10 +13,6 @@
     {
       "type": "streamable-http",
       "url": "https://eu-spain-public-data.mcpize.run/mcp"
-    },
-    {
-      "type": "streamable-http",
-      "url": "https://server.smithery.ai/opendata-forge/eu-spain-public-data/mcp"
     }
   ],
   "icons": [
